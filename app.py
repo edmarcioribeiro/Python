@@ -1,5 +1,4 @@
 #Importa biblioteca Selenium
-from mailbox import NotEmptyError
 from selenium import webdriver
 #Importa biblioteca Sleep (Pausa processo)
 from time import sleep
